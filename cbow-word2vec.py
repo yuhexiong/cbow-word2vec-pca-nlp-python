@@ -1,7 +1,6 @@
 import re
 import jieba
 from gensim.models import word2vec
-from pprint import pprint
 
 # read article
 article = ""
