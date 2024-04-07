@@ -11,7 +11,10 @@ Training the Word2Vec CBOW model with articles to convert keywords to vectors, r
 ## Requirement
 
 - article to train Word2vec
+![image](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python/blob/main/image/article_sample.png)
+
 - dictionary to cut word from article
+![image](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python/blob/main/image/dictionary_sample.png)
 
 ## Run
 
@@ -30,6 +33,6 @@ python keyword-vector.py
 
 ## Example Of Result
 
-### PCA 
+### PCA (using tableau)
 
 ![image](https://github.com/yuhexiong/cbow-word2vec-pca-nlp-python/blob/main/image/pca.png)
